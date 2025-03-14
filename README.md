@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib seaborn
 ## 🚀 Usage
 Clone the repository:
 \`\`\`bash
-[git clone https://github.com/yourusername/tourism-analysis.git](https://github.com/MOyosola1398/Tourism-Analysis)
+https://github.com/MOyosola1398/Tourism-Analysis.git
 cd tourism-analysis
 \`\`\`
 Open and run the Jupyter Notebook:
